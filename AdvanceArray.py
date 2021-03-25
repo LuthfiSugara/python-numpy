@@ -31,4 +31,6 @@ data = [
 
 e = np.array(data, dtype= dtipe)
 
+print(np.sort(e, order='nama'))
+
 print(e)
